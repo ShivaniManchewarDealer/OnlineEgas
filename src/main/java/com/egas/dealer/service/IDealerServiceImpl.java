@@ -211,7 +211,7 @@ public class IDealerServiceImpl  implements IDealerService{
 		return customer;
 	}
 	
-	//*********Customer Gas Booking Methods***********
+	//*********Customer Gas Booking Methods*************
 	
 	public List<CustomerGasBooking> getAllCustomerBookings()
 	{
